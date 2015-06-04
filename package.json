@@ -15,7 +15,7 @@
     "docker.io"
   ],
   "dependencies": {
-    "docker-modem": "https://github.com/apocas/docker-modem/tarball/master"
+    "docker-modem": "https://github.com/dayglo/docker-modem/tarball/followProgressFix"
   },
   "devDependencies": {
     "chai": "~1.7.0",
